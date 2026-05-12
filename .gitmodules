@@ -1,20 +1,20 @@
 [submodule "servoy-eclipse"]
 	path = servoy-eclipse
 	url = https://github.com/Servoy/servoy-eclipse.git
-	branch = lts
+	branch = release
 [submodule "servoy-client"]
 	path = servoy-client
 	url = https://github.com/Servoy/servoy-client.git
-	branch = lts
+	branch = release
 [submodule "server"]
 	path = server
 	url = https://github.com/Servoy/server.git
-	branch = lts
+	branch = release
 [submodule "sablo"]
 	path = sablo
 	url = https://github.com/Servoy/sablo.git
-	branch = lts
+	branch = release
 [submodule "rhino"]
 	path = rhino
 	url = https://github.com/Servoy/rhino.git
-	branch = servoy_2024.03
+	branch = 2026.03_servoy
